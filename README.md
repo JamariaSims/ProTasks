@@ -1,5 +1,9 @@
 # 🧩 ProTasks – Task Management Dashboard
 
+![ProTasks Dashboard Screenshot](./assets/dashboard-preview.png)
+
+Reference:https://dribbble.com/shots/24867794-ProTasks-A-Complete-Task-Manager-SaaS-Product-Exploration
+
 **ProTasks** is a modern, intuitive, and fully responsive task management dashboard built to help teams efficiently manage their workflows, collaborate seamlessly, and stay productive.
 
 With a clean and user-friendly **Kanban-style interface**, ProTasks allows users to visualize their tasks across key stages:  
